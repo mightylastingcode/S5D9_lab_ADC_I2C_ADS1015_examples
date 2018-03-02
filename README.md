@@ -5,12 +5,12 @@ This board has two grove headers.  Grove B is an IIC port while grove A is an SC
 
 6 examples are included in this tutorial.
 
-1. Grove B / r_iic driver (only for fast speed mode) *
+1. Grove B / r_iic driver (only for the fast speed mode) *
 2. Grove B / framework with r_iic driver
 1. Grove A / r_sci_i2c driver
 2. Grove A / framework with r_sci_i2c driver
 
-* Because r_iic has some issue for standard speed mode. Two workaround examples are included.
+* Because r_iic has some issue for standard speed mode. Two possible workaround examples are included.
 1. Grove B / r_iic driver / method 1 with busy bit check
 2. Grove B / r_iic driver / method 2 with busy bit check
 
