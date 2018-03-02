@@ -14,4 +14,4 @@ This board has two grove headers.  Grove B is an IIC port while grove A is an SC
 1. Grove B / r_iic driver / method 1 with busy bit check
 2. Grove B / r_iic driver / method 2 with busy bit check
 
-Both checks for the hardware busy bit before the code starts the next i2c transmission.
+Both checks for the hardware busy bit before the code starts the next i2c transmission.   The above examples are are done with limited testing.  At this point, this ADC component seem to work well with these workaround solutions. 
