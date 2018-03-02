@@ -16,6 +16,14 @@ This board has two grove headers.  Grove B is an IIC port while grove A is an SC
 
 Both checks for the hardware busy bit before the code starts the next i2c transmission.   The above examples are are done with limited testing.  At this point, this ADC component seem to work well with these workaround solutions. 
 
+Files in this repository:
+S5D9_lab_ADC_I2C_ADS1015_examples.zip (Renesas Snergy projects' zip file)
+S5D9 ADS1015 I2C ADC Tutorial Summary.pdf (Tutorial Summary)
+ads1015.pdf (TI ADS 1015 Datasheet)
+
 ADC module
 ADS1015 12-Bit ADC - 4 Channel with Programmable Gain Amplifier
 https://www.adafruit.com/product/1083
+
+Lastly, here is my blog.
+https://www.miketechuniverse.com/single-post/2018/03/02/Add-ADC-to-S5D9-IOT-board
